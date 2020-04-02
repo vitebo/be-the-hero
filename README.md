@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/logo.png" />
+  <a href="https://github.com/vitebo/be-the-hero">
+    <img src="https://raw.githubusercontent.com/vitebo/be-the-hero/master/assets/logo.png" />
+  </a>
   
   <p align="center">
   App to help NGOs built with ReactJS, React Native and Node.js.
